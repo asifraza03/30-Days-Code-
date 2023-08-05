@@ -14,3 +14,5 @@ Problem(9) - Pallindrome
 
 problem(10)  - reverse string 
 
+problem(11)  - Hollow Rectangle Pattern 
+
