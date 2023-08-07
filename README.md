@@ -27,3 +27,5 @@ Problem(12) -  Pattern 12345
                        51234
  
 Problem(13) - Traingle Pattern
+
+Problem(14) - Odd Number Using Function 
