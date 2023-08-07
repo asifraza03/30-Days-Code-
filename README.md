@@ -12,11 +12,11 @@ Problem(8) - Here DifficultyLevel-1009  from Codechef - https://www.codechef.com
 
 Problem(9) - Pallindrome 
 
-problem(10)  - reverse string 
+Problem(10)  - reverse string 
 
-problem(11)  - Hollow Rectangle Pattern 
+Problem(11)  - Hollow Rectangle Pattern 
 
-problem(12) -  Pattern 12345
+Problem(12) -  Pattern 12345
 
                        23451
 
@@ -26,3 +26,4 @@ problem(12) -  Pattern 12345
 
                        51234
  
+Problem(13) - Traingle Pattern
