@@ -16,3 +16,10 @@ problem(10)  - reverse string
 
 problem(11)  - Hollow Rectangle Pattern 
 
+problem(12) -  Pattern 
+12345
+23451
+34512
+45123
+51234
+
