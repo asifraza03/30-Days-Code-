@@ -31,3 +31,5 @@ Problem(13) - Traingle Pattern
 Problem(14) - Odd Number Using Function 
 
 Problem(15) - Prime No.
+
+Problem(16)  - Last Occurance of Repeat Number Using (Vector)
