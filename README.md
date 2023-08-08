@@ -33,3 +33,5 @@ Problem(14) - Odd Number Using Function
 Problem(15) - Prime No.
 
 Problem(16)  - Last Occurance of Repeat Number Using (Vector)
+
+Problem(17)  - Difference Between Odd & Even Indices in array
