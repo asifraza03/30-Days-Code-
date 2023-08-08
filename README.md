@@ -35,3 +35,5 @@ Problem(15) - Prime No.
 Problem(16)  - Last Occurance of Repeat Number Using (Vector)
 
 Problem(17)  - Difference Between Odd & Even Indices in array
+
+Problem(18) - Identifying Pairs of a target no. in Array.
