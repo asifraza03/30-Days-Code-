@@ -32,6 +32,10 @@ Problem(14) - Odd Number Using Function
 
 Problem(15) - Prime No.
 
+
+----------------( DAY - 2 )----------------
+
+
 Problem(16)  - Last Occurance of Repeat Number Using (Vector)
 
 Problem(17)  - Difference Between Odd & Even Indices in array
@@ -42,7 +46,11 @@ Problem(19) - Identifying Unique Element in an Array.
 
 Problem(20) - Identifying Second Largest Element in an Array.
 
-Problem(21) - Rotating Array.
+
+----------------( DAY - 3 )------------------
+
+
+Problem(21) - Rotating Array. (DAY - 3) 
 
 Problem(22) - Checking the how much time the query element in vector.
 
