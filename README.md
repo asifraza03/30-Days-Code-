@@ -43,3 +43,5 @@ Problem(19) - Identifying Unique Element in an Array.
 Problem(20) - Identifying Second Largest Element in an Array.
 
 Problem(21) - Rotating Array.
+
+Problem(22) - Checking the how much time the query element in vector.
