@@ -69,3 +69,5 @@ Problem(27) - Print sum of range from l to r using vector.
 ----------------( DAY - 5 )------------------
 
 Problem(28) - Multiply two Matrices.
+
+Prblem(29) - Print Transpose of Matrices
