@@ -1,3 +1,6 @@
+
+//Problem(25) - Seperate even to the left & odd to the right using vector.
+
 #include <iostream>
 #include <vector>
 using namespace std;
