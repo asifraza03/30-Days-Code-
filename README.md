@@ -73,3 +73,5 @@ Problem(28) - Multiply two Matrices.
 Prblem(29) - Print Transpose of Matrices
 
 Problem(30) - Print Pascal Traingle using 2D vector
+
+Problem(31) - https://www.codechef.com/problems/L56GAME?tab=statement
