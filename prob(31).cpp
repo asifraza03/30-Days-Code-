@@ -1,3 +1,6 @@
+
+//Problem(31) - https://www.codechef.com/problems/L56GAME?tab=statement
+
 #include<iostream>
 using namespace std;
 int main()
