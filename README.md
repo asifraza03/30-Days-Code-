@@ -82,3 +82,8 @@ Problem(31) - https://www.codechef.com/problems/L56GAME?tab=statement
 ----------------( DAY - 7 )------------------
 
 Problem(32) - Find the index of maximum ones present in raw.
+
+
+Problem(33) - Rotate 2d Vector by 90 degree and print.
+
+
