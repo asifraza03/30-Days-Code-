@@ -79,13 +79,6 @@ Problem(30) - Print Pascal Traingle using 2D vector
 Problem(31) - https://www.codechef.com/problems/L56GAME?tab=statement
 
 
-----------------( DAY - 6 )------------------
+----------------( DAY - 7 )------------------
 
 Problem(32) - Find the index of maximum ones present in raw.
-
-
-
-
-
-
-
