@@ -86,4 +86,8 @@ Problem(32) - Find the index of maximum ones present in raw.
 
 Problem(33) - Rotate 2d Vector by 90 degree and print.
 
+----------------( DAY - 8 )------------------
+
+Problem(34) - CodeChef Problem - https://www.codechef.com/problems/FACEBOOK?tab=submissions
+
 
