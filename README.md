@@ -90,4 +90,6 @@ Problem(33) - Rotate 2d Vector by 90 degree and print.
 
 Problem(34) - CodeChef Problem - https://www.codechef.com/problems/FACEBOOK?tab=submissions
 
+----------------( DAY - 9 )------------------
 
+Problem(35) - https://www.codechef.com/problems/EQCARDGAME
