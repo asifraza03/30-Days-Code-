@@ -93,3 +93,5 @@ Problem(34) - CodeChef Problem - https://www.codechef.com/problems/FACEBOOK?tab=
 ----------------( DAY - 9 )------------------
 
 Problem(35) - https://www.codechef.com/problems/EQCARDGAME
+
+Problem(35) - https://www.codechef.com/problems/URCALC?tab=statement
